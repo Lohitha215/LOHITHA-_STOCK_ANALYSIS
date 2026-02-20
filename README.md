@@ -1,4 +1,4 @@
-<img width="876" height="701" alt="image" src="https://github.com/user-attachments/assets/b7efe9f9-66e5-43d7-b0d0-d575ca4e2b7b" /># LOHITHA-_STOCK_ANALYSIS
+# LOHITHA-_STOCK_ANALYSIS
 
 Project Description:
                 This project analyzes historical stock market data using Python and MySQL 
@@ -25,4 +25,4 @@ output:
 
 <img width="896" height="692" alt="image" src="https://github.com/user-attachments/assets/0b525711-a4da-418c-afcb-c3b7c9c3b2a7" />
 
-  
+ <img width="876" height="701" alt="image" src="https://github.com/user-attachments/assets/b7efe9f9-66e5-43d7-b0d0-d575ca4e2b7b" /> 
